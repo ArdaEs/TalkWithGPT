@@ -1,6 +1,8 @@
 # TalkWithGPT
 
-create the environment with: conda create --name 'env name' --file requirements.txt
+python version 3.9.15
+
+install the requirements: pip install -r requirements.txt
 
 Add OpenAI Api key to the "openai.api_key" inside gpt function
 
