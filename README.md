@@ -1,5 +1,9 @@
 # TalkWithGPT
 
+Is typing to GPT all the time too bothersome? Then try talking.
+Sadly this uses gTTS.
+
+
 python version 3.9.15
 
 install the requirements: pip install -r requirements.txt
